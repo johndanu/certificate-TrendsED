@@ -27,10 +27,10 @@ export default function CertificatePage() {
       </Helmet>
       <div className="container mt-4">
         <div className="row justify-content-center">
-          <div className="d-flex justify-content-center col-12 col-md-6">
+          <div className="d-flex justify-content-center col-12 col-md-7">
             <img src="./certificate.png" alt="Certificate" className="w-100" />
           </div>
-          <div className="col-12 col-md-6">
+          <div className="col-12 col-md-3">
             <div className="card-body">
               <h5 className="card-title">Fundamentals Of Python</h5>
               <p className="card-text text-muted">by TrendsED</p>
